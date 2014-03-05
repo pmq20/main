@@ -1,5 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronRuby.Tests", "..\Languages\Ruby\IronRuby.Tests\IronRuby.Tests.csproj", "{8103D91B-89D8-4A18-9A40-426992602EA2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ruby", "..\Languages\Ruby\Ruby\Ruby.csproj", "{7F6984B4-EE6D-4E6F-ABB1-E210D7DC4FDD}"
